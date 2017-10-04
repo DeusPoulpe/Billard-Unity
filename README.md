@@ -30,4 +30,6 @@
 7. Spécification, implémentation et test d’un premier sous-ensemble : 
 	Modéliser une salle avec la table de billard, une bille ainsi que les cannes. 
 
-
+04.10.17 
+Nous avons fini toutes les objets (cannes, boules, table)
+Nous avons commencé à tester la physique des objets sur unity
