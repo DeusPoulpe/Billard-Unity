@@ -30,6 +30,10 @@
 7. Spécification, implémentation et test d’un premier sous-ensemble : 
 	Modéliser une salle avec la table de billard, une bille ainsi que les cannes. 
 
-04.10.17 
+04.10.2017 
 Nous avons fini toutes les objets (cannes, boules, table)
-Nous avons commencé à tester la physique des objets sur unity
+Nous avons commencé à tester la physique des objets sur Unity
+
+11.10.2017
+Nous avons reçu, configuré et testé l'HTC Vive
+Nous avons implémenté la table ainsi que les boules dans Unity, et commencé à tester la physique
